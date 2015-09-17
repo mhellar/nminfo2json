@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jsforce": "^1.5.0",
     "pixl-xml": "^1.0.4"
   }
 }
